@@ -1,5 +1,7 @@
 {
+  "name": "prompt-forensics",
   "display_name": "Prompt Forensics 提示词诊断",
+  "module": true,
   "loading_order": 10,
   "requires": [],
   "optional": [],
@@ -11,4 +13,3 @@
   "auto_update": false,
   "i18n": {}
 }
-
