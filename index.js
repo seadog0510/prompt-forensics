@@ -1,10 +1,3 @@
-// Prompt Forensics - SillyTavern 提示词诊断扩展
-// 监听 chat_completion_prompt_ready / generate_after_combine_prompts 等事件
-// 把发送给AI的完整prompt拆解可视化
-
-import { eventSource, event_types } from "../../../../script.js";
-import { extension_settings } from "../../../extensions.js";
-
 const EXT_ID = "prompt-forensics";
 
 // === 状态 ===
