@@ -1,3 +1,7 @@
+import { eventSource, event_types } from "../../../../script.js";
+import { extension_settings } from "../../../extensions.js";
+
+
 const EXT_ID = "prompt-forensics";
 
 // === 状态 ===
